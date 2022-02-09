@@ -1,6 +1,8 @@
 ### Olá, Eu sou a Tais Gehlen!
 
-Atualmente estou estudando : HTML, CSS e JS. 
+🚀 Front-end
+
+🌱 studying HTML, CSS, Javascript
 
 </div>
 <div style="display: inline_block"><br>
