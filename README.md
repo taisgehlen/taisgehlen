@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Tais Gehlen!
 
-🚀 Data Science 
+🚀 Front end 
 
 🌱 studying
 
