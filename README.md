@@ -2,5 +2,5 @@
 
 🚀 Front end 
 
-🌱 studying
+🌱 studying : HTML, CSS, JavaScript, TypeScript, React.
 
