@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Tais Gehlen!
 
-🚀 Front end 
+🚀 Front end and BackEnd
 
-🌱 studying : HTML, CSS, JavaScript, TypeScript, React.
+🌱 studying : HTML, CSS, JavaScript, TypeScript, React, Java, Spring Boot, PostgreSQL.
 
